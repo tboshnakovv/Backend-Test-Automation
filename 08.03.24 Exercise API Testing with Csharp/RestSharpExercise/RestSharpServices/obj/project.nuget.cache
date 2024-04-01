@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fdrhgab0Sh5nih9nN8zoLxvSaQ381S5A/FluoQMkPIYAoKAp+BASO6Ysekp4ygkO/AMZ63yI5enYmJv7blxF0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\BE Test Automation March 2024\\08.03.24 Exercise API Testing with Csharp\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanny\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\sanny\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sanny\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sanny\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
